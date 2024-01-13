@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "130466361789",
+    "project_id": "shopping-80610",
+    "storage_bucket": "shopping-80610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130466361789:android:92a603a8fd2a5af35662d4",
+        "android_client_info": {
+          "package_name": "com.dhruva.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLaRUOzmq46DWLVdJ87wGTyO53ABD_VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+

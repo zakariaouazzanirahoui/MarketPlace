@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eKart</string> <!-- Adjusted capitalization -->
+
+    <string name="title_activity_home">Home</string> <!-- Simplified title -->
+    <string name="navigation_drawer_open">Open drawer</string> <!-- Simplified description -->
+    <string name="navigation_drawer_close">Close drawer</string> <!-- Simplified description -->
+    <string name="nav_header_title">Welcome to eKart</string> <!-- More welcoming header -->
+    <string name="nav_header_subtitle">contact@ekart.fstt.com</string> <!-- Updated email -->
+    <string name="nav_header_desc">Explore our app</string> <!-- Simplified description -->
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
